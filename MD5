@@ -1,0 +1,9 @@
+26aa2a8effda8709c1b3f2b51e33efb7 *DESCRIPTION
+f784cab739a94afbc5a145103b8f85fc *LICENCE
+29ebf8752fbe5761d75c6694c1f63c16 *NAMESPACE
+e13a4b5be156d5732d3d4e3949482dea *R/fit_model_xy.R
+21c17c8905918bebbbad91be7b8c14eb *R/integrate.R
+ac6d39d3d4e63d7e8c72c20fd8350de6 *R/misc_generics.R
+46458538904481d7c7c7cabb11cd8f05 *man/copulareg.Rd
+699a0b21d8ca8a891a21a0056ad07ab1 *man/plot.copulareg.Rd
+33a2b661e1103c463f4a0eeb098de645 *man/predict.copulareg.Rd
